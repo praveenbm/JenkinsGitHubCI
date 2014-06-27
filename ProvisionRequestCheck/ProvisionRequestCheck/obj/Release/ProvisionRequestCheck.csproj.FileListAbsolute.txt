@@ -1,0 +1,3 @@
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin\Release\ProvisionRequestCheck.exe.config
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin\Release\ProvisionRequestCheck.exe
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\Release\ProvisionRequestCheck.exe

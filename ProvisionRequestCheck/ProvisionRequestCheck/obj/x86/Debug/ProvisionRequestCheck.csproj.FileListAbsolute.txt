@@ -1,0 +1,6 @@
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.exe.config
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.exe
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.pdb
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.exe
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.pdb
+C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.csprojResolveAssemblyReference.cache
