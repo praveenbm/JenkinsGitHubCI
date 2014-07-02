@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d4f16def-6efd-4807-98ac-78911f05dd6e" solutionId="d4f16def-6efd-4807-98ac-78911f05dd6e" resetWebServer="false" name="SharepointTestProjForJenkins" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="2179c0d5-ec9f-40aa-a2c4-a0dfe2720a52" />
+  </features>
+</package>

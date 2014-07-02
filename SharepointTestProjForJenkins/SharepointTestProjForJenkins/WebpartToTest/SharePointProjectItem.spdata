@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="WebpartToTestUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="WebpartToTest\" Type="ElementManifest" />
+    <ProjectItemFile Source="WebpartToTest.webpart" Target="WebpartToTest\" Type="ElementFile" />
+    <ProjectItemFile Source="WebpartToTestUserControl.ascx" Target="CONTROLTEMPLATES\SharepointTestProjForJenkins\WebpartToTest\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="SharepointTestProjForJenkins.WebpartToTest" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
