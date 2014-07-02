@@ -4,3 +4,9 @@ C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\bin
 C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.exe
 C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.pdb
 C:\Users\bisarp\Desktop\Vodafone\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.csprojResolveAssemblyReference.cache
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.exe.config
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.exe
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.pdb
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.exe
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\bin\Debug\ProvisionRequestCheck.pdb
+C:\Jenkins_GitHub\ProvisionRequestCheck\ProvisionRequestCheck\obj\x86\Debug\ProvisionRequestCheck.csprojResolveAssemblyReference.cache
