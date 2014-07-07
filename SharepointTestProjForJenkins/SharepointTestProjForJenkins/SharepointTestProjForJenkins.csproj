@@ -84,7 +84,9 @@
       <DependentUpon>Feature1.feature</DependentUpon>
     </Content>
     <Content Include="WebpartToTest\Elements.xml" />
-    <Content Include="WebpartToTest\WebpartToTestUserControl.ascx" />
+    <Content Include="WebpartToTest\WebpartToTestUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
