@@ -20,7 +20,9 @@ namespace SharepointTestProjForJenkins.WebpartToTest
             
             Label1.Font.Italic= true;
 
+           
             SPSite site = new SPSite("http://abc.com");
+            SPWeb web = site.OpenWeb();
         }
     }
 }
