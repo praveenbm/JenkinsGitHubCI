@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d4f16def-6efd-4807-98ac-78911f05dd6e" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SharepointTestProjForJenkins.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SharepointTestProjForJenkins_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

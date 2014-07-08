@@ -38,6 +38,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+<SPCopEnabled>true</SPCopEnabled> 
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -90,4 +91,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+<Import Condition="'$(BuildingInsideVisualStudio)'=='true' AND Exists('$(MSBuildExtensionsPath)\SPCAF\SPCop.targets')" 
+  Project="$(MSBuildExtensionsPath)\SPCAF\SPCop.targets" />
 </Project>
