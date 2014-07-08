@@ -2,6 +2,7 @@
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
+using Microsoft.SharePoint;
 
 namespace SharepointTestProjForJenkins.WebpartToTest
 {
@@ -14,10 +15,12 @@ namespace SharepointTestProjForJenkins.WebpartToTest
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            asdasd
-            Label1.Text = 
-                "You clicked me!!";
+           
+            Label1.Text =  "You clicked me!!";
+            
             Label1.Font.Italic= true;
+
+            SPSite site = new SPSite("http://abc.com");
         }
     }
 }
