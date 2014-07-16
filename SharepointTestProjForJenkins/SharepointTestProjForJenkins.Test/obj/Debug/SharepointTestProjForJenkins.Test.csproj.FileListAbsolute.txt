@@ -1,8 +1,0 @@
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\obj\Debug\SharepointTestProjForJenkins.Test.csprojResolveAssemblyReference.cache
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\bin\Debug\SharepointTestProjForJenkins.Test.dll
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\bin\Debug\SharepointTestProjForJenkins.Test.pdb
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\bin\Debug\nunit.framework.dll
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\bin\Debug\SharepointTestProjForJenkins.dll
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\bin\Debug\SharepointTestProjForJenkins.pdb
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\obj\Debug\SharepointTestProjForJenkins.Test.dll
-C:\Jenkins_GitHub\SharepointTestProjForJenkins\SharepointTestProjForJenkins.Test\obj\Debug\SharepointTestProjForJenkins.Test.pdb
