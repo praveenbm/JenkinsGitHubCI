@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharepointTestProjForJenkins", "SharepointTestProjForJenkins\SharepointTestProjForJenkins.csproj", "{6079F164-C16D-4DF7-8B08-B160E60196B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharepointTestProjForJenkins.Test", "SharepointTestProjForJenkins.Test\SharepointTestProjForJenkins.Test.csproj", "{865C85F5-1E78-4085-AFA5-966280123547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6079F164-C16D-4DF7-8B08-B160E60196B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6079F164-C16D-4DF7-8B08-B160E60196B0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6079F164-C16D-4DF7-8B08-B160E60196B0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{865C85F5-1E78-4085-AFA5-966280123547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865C85F5-1E78-4085-AFA5-966280123547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865C85F5-1E78-4085-AFA5-966280123547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865C85F5-1E78-4085-AFA5-966280123547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

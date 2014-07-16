@@ -7,8 +7,29 @@
 <%@ Register Tagprefix="WebPartPages" Namespace="Microsoft.SharePoint.WebPartPages" Assembly="Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="WebpartToTestUserControl.ascx.cs" Inherits="SharepointTestProjForJenkins.WebpartToTest.WebpartToTestUserControl" %>
 <p>
-    <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 
-        Text="Click Me" />
-</p>
-<asp:Label ID="Label1" runat="server"></asp:Label>
+    &nbsp;</p>
+
+    <div>   
+    
+<asp:Label ID="Label1" runat="server" Text='Number 1'></asp:Label>
+
+<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+    
+    
+    </div>
+    <div>
+    <asp:Label ID="Label2" runat="server" Text='Number 2'></asp:Label>
+
+<asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+    </div>
+    <div>
+     <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 
+        Text="Add" />
+    </div>
+    <div>
+    
+    <asp:Label ID="Label3" runat="server"></asp:Label>
+    </div>
+   
+
 
