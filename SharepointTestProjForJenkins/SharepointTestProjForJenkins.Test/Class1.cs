@@ -14,7 +14,7 @@ namespace SharepointTestProjForJenkins.Test
         public void AddTest()
         {             
             MathUtility helper = new MathUtility();
-            int result = helper.Add(20,10);
+            int result = helper.Add(20,20);
             Assert.AreEqual(30, result);
         }
                 
